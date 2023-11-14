@@ -1,4 +1,4 @@
-odule TPU(
+module TPU(
     clk,
     rst_n,
 
